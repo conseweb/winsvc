@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/btcsuite/winsvc/winapi"
+	"github.com/conseweb/winsvc/winapi"
 )
 
 const (
